@@ -1,7 +1,6 @@
 ### Hi there, I’m XiaoPiHong 👋
 
 ### Languages and Tools:
-
 <span><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5&color=333333"/></span>
 <span><img alt="CSS3" src="https://img.shields.io/badge/CSS3-E34F26?style=social&logo=css3&color=333333"/></span>
 <span><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E34F26?style=social&logo=javascript&color=333333"/></span>
@@ -16,11 +15,9 @@
 <span><img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=social&logo=git&color=333333"/></span>
 
 ### Blog:
-
 * [个人博客](https://xiaopihong.github.io/myBlog/)
 * [CSDN](https://blog.csdn.net/weixin_45849779?spm=1010.2135.3001.5343/)
 
 ### Other:
-
 <img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=XiaoPiHong&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&bg_color=45,ff9569,e92758" />
 <img align="right" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoPiHong&show_icons=true&layout=compact&title_color=fff&text_color=fff&bg_color=45,ff9569,e92758" />

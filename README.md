@@ -13,7 +13,7 @@
   <tr>
     <td><span><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-E34F26?style=social&logo=typescript&color=333333"/></span></td>
     <td><span><img alt="Vue" src="https://img.shields.io/badge/Vue-E34F26?style=social&logo=vuedotjs&color=333333"/></span></td>
-    <td><span><img alt="Webpack" src="https://img.shields.io/badge/Webpack-E34F26?style=social&logo=webpack&color=333333"/></span></td/>
+    <td><span><img alt="Webpack" src="https://img.shields.io/badge/Webpack-E34F26?style=social&logo=webpack&color=333333"/></span></td>
   </tr>
   <tr>
     <td><span><img alt="Vite" src="https://img.shields.io/badge/Vite-E34F26?style=social&logo=vite&color=333333"/></span></td>

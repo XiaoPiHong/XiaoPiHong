@@ -29,7 +29,6 @@
 
 ### 博客:
 * [个人博客](https://xiaopihong.github.io/myBlog/)
-* [CSDN](https://blog.csdn.net/weixin_45849779?spm=1010.2135.3001.5343/)
 
 ### 其他:
 <img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=XiaoPiHong&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&bg_color=45,ff9569,e92758" />

@@ -3,7 +3,7 @@
 * 📍 目前居住在**广东广州**
 * 📫 与我联系 **xiaopihong0325@qq.com**
 
-### 语言和工具:
+### 语言和工具：
 <table style="table-layout: auto; border-collapse: collapse;">
   <tr>
     <td><span><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E34F26?style=social&logo=javascript&color=333333"/></span></td>
@@ -13,9 +13,13 @@
   </tr>
 </table>
 
-### 博客:
-* [个人博客](https://xiaopihong.github.io/myBlog/)
+### 我的案例：
+- [个人博客](https://xiaopihong.github.io/myBlog/)
+- [xph-crud 可配置组件库](https://xiaopihong.github.io/xph-crud/)
+- [xph-form 可配置表单](https://www.npmjs.com/package/xph-form)
+- [vite-plugin-cwv 版本检测工具](https://www.npmjs.com/package/vite-plugin-cwv)
 
-### 其他:
+
+### 其他：
 <img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=XiaoPiHong&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&bg_color=45,ff9569,e92758" />
 <img align="right" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoPiHong&show_icons=true&layout=compact&title_color=fff&text_color=fff&bg_color=45,ff9569,e92758" />
